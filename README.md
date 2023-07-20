@@ -7,7 +7,7 @@
 
 ⚐ Based in Somewhere in the internet
 
-ϟ Currently Working with Kubenetes, Ansible and Bash at [Venturus](https://www.venturus.org.br/), automating infrastructure deployment and creating new developer tools to make life easier.
+ϟ Currently Working with Kubernetes, Ansible and Bash at [Venturus](https://www.venturus.org.br/), automating infrastructure deployment and creating new developer tools to make life easier.
 
 ϟ Recently gave a talk on Oauth usage
 

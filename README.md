@@ -1,6 +1,6 @@
 # Robson Cruz (deadpyxel)
 
-### I am a SRE that like to solve developer problems and automate quality processes.
+### I am a SRE that likes to solve developer problems and automate quality processes.
 
 ⤷ I like to break things down so I can understand them and build something better. My core principle is that continuous improvement is a must. If you like Open Source, Linux, Cybersecurity and solving engineering problems let's talk!
 
@@ -14,7 +14,7 @@
 
 ϟ Gave a talk last year on Oauth usage
 
-ϟ Gave a talk last year on Reverse engineering malwares and malware detection.
+ϟ Gave a talk this year on Reverse engineering malwares and malware detection.
 
 ϟ Is working on a onboarding solution for new SREs in Go
 
@@ -24,6 +24,12 @@
 - Kubernetes and Docker
 - Ansible
 - Linux Systems administration (and breaking them sometimes 😉)
+
+## Looking to learn and work more with:
+
+- AWS in general
+- Terraform and OpenTofu
+- Elixir and Rust
 
 ## Holopin Badges
 

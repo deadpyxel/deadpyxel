@@ -16,7 +16,7 @@
 
 ϟ Gave a talk this year on Reverse engineering malwares and malware detection.
 
-ϟ Is working on a onboarding solution for new SREs in Go
+ϟ Is working on an onboarding solution for new SREs in Go
 
  ## Skills
 

@@ -30,7 +30,7 @@
 ## Looking to learn and work more with:
 
 - AWS in general
-- Terraform and OpenTofu
+- Terraform
 - Elixir and Rust
 
 ## Holopin Badges

@@ -10,7 +10,7 @@
 
 ⚐ Based in Brazil, open to remote work
 
-ϟ Currently working with Kubernetes, Ansible and Bash at [Venturus](https://www.venturus.org.br/) as an SRE, automating infrastructure deployment and creating new developer tools to make life easier.
+ϟ Currently working with Kubernetes, Helm, Ansible and Bash at [Venturus](https://www.venturus.org.br/) as an SRE, automating infrastructure deployment and creating new developer tools with Go and Python to make life easier.
 
 ϟ Gave a talk on 2022 on Oauth usage, patterns and secure practices
 

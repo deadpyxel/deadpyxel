@@ -40,3 +40,7 @@
 ## Github Stats
 
 ![An image of @deadpyxel's Most used languages in the past year with percentages](https://api.githubtrends.io/user/svg/deadpyxel/langs?time_range=one_year&include_private=True&compact=True&theme=dark)
+
+## Learn more at
+
+![qrcode](https://github.com/user-attachments/assets/0fa99ed2-fb56-41a9-83ab-775f86725276)

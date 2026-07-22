@@ -15,7 +15,7 @@ Currently working with Kubernetes, Helm and AWS at [Venturus](https://www.ventur
 
 - AWS in general
 - Terraform
-- Elixir, Rust and Zig
+- Elixir, Odin and Zig
 
 ## Github Stats
 
